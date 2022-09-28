@@ -1,0 +1,67 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.btn-warning{
+    font-size: medium;
+}
+
+/* Button Pill */
+.kontak:hover{
+    width: 100px;
+}
+.bayar:hover{
+    width: 100px;
+}
+.cv:hover{
+    width: 200px;
+}
+.detil:hover{
+    width: 100px;
+}
+.bicara:hover{
+    width: 100px;
+}
+
+/* Button Learn More */
+.baca-1:hover{
+    width: 150px;
+    text-transform: uppercase;
+    font-size: medium;
+}
+.baca-2:hover{
+    width: 150px;
+    text-transform: uppercase;
+}
+.baca-3:hover{
+    width: 150px;
+    text-transform: uppercase;
+}
+
+
+.text-primary{
+    font-size: medium;
+}
+
+.baground{
+    background-color: lightgoldenrodyellow;
+}
+
+.row-1{
+    position: absolute;
+    right: 305px;
+    top: 1320px;
+}
+
+.row-2{
+    position: absolute;
+    right: 305px;
+    top: 1385px;
+}
+
+.row-3{
+    position: absolute;
+    right: 305px;
+    top: 1450px;
+}
+
